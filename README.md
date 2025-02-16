@@ -15,6 +15,11 @@ Features:
 - ALso display the pokemon's base HP, ATK, and DEF.
 
 
+Installation:
+
+Grab the APK from [Releases](https://github.com/GurvirS9/ComposePokedex/releases/)
+
+
 App Demo:
 
 ![Screenshot_20250216-154002](https://github.com/user-attachments/assets/9cee3a58-d228-4459-a683-40d8bc46e43d)
